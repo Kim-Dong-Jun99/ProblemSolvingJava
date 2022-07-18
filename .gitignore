@@ -10,7 +10,7 @@
 .idea/**/git_toolbox_prj.xml
 # AWS User-specific
 .idea/**/aws.xml
-
+.vscode/**/tasks.json
 # Generated files
 .idea/**/contentModel.xml
 
