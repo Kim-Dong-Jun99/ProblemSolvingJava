@@ -13,6 +13,6 @@ public class 약수의합2 {
 
         }
         System.out.println(result);
-
+        scanner.close();
     }
 }
