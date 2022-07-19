@@ -13,7 +13,6 @@ public class 최대공약수와최소공배수 {
         int b = Integer.parseInt(st.nextToken());
 
         int gcd = 0;
-        int lcm = 0;
         for (int i = Math.min(a, b); i > 0; i--) {
             if (a % i == 0 && b % i == 0) {
                 gcd = i;

@@ -14,5 +14,6 @@ public class one {
             }
             System.out.println(String.valueOf(result).length());
         }
+        scanner.close();
     }
 }
