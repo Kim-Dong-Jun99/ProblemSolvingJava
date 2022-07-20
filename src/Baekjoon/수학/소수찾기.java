@@ -7,8 +7,6 @@ import java.util.*;
 public class 소수찾기 {
     public static void main(String[] args) throws Exception{
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        StringBuffer st = new StringBuffer();
-
         boolean[] isPrime = new boolean[1001];
         Arrays.fill(isPrime, false);
         List<Integer> primes = new ArrayList<>();
